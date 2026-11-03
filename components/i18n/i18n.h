@@ -2,7 +2,6 @@
 
 #include "esphome/core/component.h"
 #include "esphome/core/automation.h"
-#include "esphome/components/lvgl/lvgl_esphome.h"
 #include "generated/translations.h"
 
 #ifdef USE_I18N

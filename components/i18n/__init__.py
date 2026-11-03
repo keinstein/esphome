@@ -20,7 +20,7 @@ _LOGGER = logging.getLogger(__name__)
 # Component metadata
 DOMAIN = "i18n"
 CODEOWNERS = ["@alaltitov"]
-DEPENDENCIES = ["lvgl"]
+DEPENDENCIES = []
 
 # C++ namespace and classes
 i18n_ns = cg.esphome_ns.namespace("i18n")
